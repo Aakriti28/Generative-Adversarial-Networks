@@ -1,2 +1,2 @@
 # Generative-Adversarial-Networks
-It includes DC Gans and Cycle Gans made under my SoC project.
+It includes Vanilla Gans, Deep Convolutional Gans and Cycle Gans made under Institute's Seasons of Code project.
